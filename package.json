@@ -41,5 +41,11 @@
     "karma-jasmine": "~5.1.0",
     "karma-jasmine-html-reporter": "~2.1.0",
     "typescript": "~5.4.2"
+  },
+  "overrides": {
+    "glob": "^10.5.0",
+    "esbuild": "^0.25.0",
+    "webpack-dev-server": "^5.2.0",
+    "vite": "^6.2.0"
   }
 }
